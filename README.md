@@ -92,6 +92,16 @@ This loss:
 - Reduces distance between similar image pairs
 - Increases distance for dissimilar pairs (up to margin)
 
+## Graphs
+![accuracy_plot](https://github.com/user-attachments/assets/491f8188-3f18-4f4b-86fb-5a5025d06abc)
+![recall_plot](https://github.com/user-attachments/assets/5c933d42-3ba7-4cca-b3fd-90488f07e6d8)
+![f1_score_plot](https://github.com/user-attachments/assets/9f458247-7109-4ab7-9862-439d37a72149)
+![loss_plot](https://github.com/user-attachments/assets/74cb3e38-ca32-4a89-8093-6818c7dee00a)
+![confusion_matrix_train](https://github.com/user-attachments/assets/05dba442-6204-4ef6-bed4-6acf79b16d64)
+![confusion_matrix_val](https://github.com/user-attachments/assets/ee608a3b-3938-420e-8b12-8c8aa61c0b35)
+
+
+
 ---
 
 👤 Author
